@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="KJGuideView">
+        <attr name="guide_skip_margin_top" format="dimension" />
+        <attr name="guide_skip_margin_right" format="dimension" />
+        <attr name="guide_skip_text_size" format="dimension" />
+        <attr name="guide_skip_text_color" format="color" />
+        <attr name="guide_skip_text" format="string" />
+        <attr name="guide_point_bottom_span" format="dimension" />
+        <attr name="guide_point_inter_span" format="dimension" />
+        <attr name="guide_point_bg" format="reference" />
+        <attr name="guide_jump_bt_bg" format="reference" />
+        <attr name="guide_jump_bt_height" format="dimension" />
+        <attr name="guide_jump_bt_width" format="dimension" />
+        <attr name="guide_jump_bt_text_size" format="dimension" />
+        <attr name="guide_jump_bt_text_color" format="color" />
+        <attr name="guide_jump_bt_bottom_span" format="dimension" />
+        <attr name="guide_jump_bt_text" format="string" />
+    </declare-styleable>
+</resources>

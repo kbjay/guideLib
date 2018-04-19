@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GuideDemo</string>
+    <string name="skip">跳过</string>
+    <string name="jump2home">我知道了</string>
+</resources>
